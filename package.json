@@ -1,0 +1,39 @@
+{
+  "name": "mosquito-control-calculator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "面向媒介伊蚊防制工作的配药计算与登记药物核验工具",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niangaooooo/mosquito-control-calculator.git"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "eslint --max-warnings=0",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:export": "node scripts/verify-static-export.mjs",
+    "check": "npm run lint && npm run typecheck && npm run test && npm run build && npm run test:export"
+  },
+  "dependencies": {
+    "next": "16.3.2",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.2",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "4.1.11"
+  }
+}

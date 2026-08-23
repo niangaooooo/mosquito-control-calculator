@@ -1,0 +1,2771 @@
+[
+  {
+    "id": "drug_2026_ailv_105ec",
+    "productName": "烯丙氯菊乳油10.5%",
+    "registeredName": "烯丙菊酯·氯菊酯乳油",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 10,
+        "unit": "%"
+      },
+      {
+        "name": "Es-生物烯丙菊酯",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州2026采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "烯丙氯菊",
+      "生物烯丙氯菊",
+      "10.5%烯丙氯菊乳油"
+    ],
+    "notes": "广州2026东山消毒站采购清单。成分：氯菊酯10%+Es-生物烯丙菊酯0.5%。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_ailv_10ec",
+    "productName": "烯丙·氯菊乳油10%",
+    "registeredName": "烯丙菊酯·氯菊酯乳油",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 7.5,
+        "unit": "%"
+      },
+      {
+        "name": "Es-生物烯丙菊酯",
+        "value": 2.5,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州2026采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "烯丙氯菊",
+      "10%烯丙·氯菊乳油",
+      "10%烯丙.氯菊乳油"
+    ],
+    "notes": "广州2026/2025东山消毒站采购清单。成分：氯菊酯7.5%+Es-生物烯丙菊酯2.5%。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_benqin_10ec",
+    "productName": "苯氰·残杀威乳油",
+    "registeredName": "苯氰·残杀威",
+    "registrationNo": "WP20180127",
+    "holder": "江苏省南京荣诚生物科技有限公司",
+    "manufacturer": "官方标签未单列生产企业",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "右旋苯醚氰菊酯",
+        "value": 5,
+        "unit": "%"
+      },
+      {
+        "name": "残杀威",
+        "value": 5,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": {
+      "type": "FORMULATION_VOLUME_PER_VOLUME",
+      "value": 0.075,
+      "unit": "mL/m3"
+    },
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2028-06-27",
+    "status": "VERIFIED_CALCULABLE",
+    "source": {
+      "type": "ICAMA_OFFICIAL_LABEL",
+      "url": "https://www.icama.cn/BasicdataSystem/pesticideRegistration/tagview.do?pdno=WP20180127",
+      "verifiedAt": "2026-08-11"
+    },
+    "labelSource": "农业农村部ICAMA农药标签；登记有效期由用户截图补充",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "officialLabelUrl": "https://www.icama.cn/BasicdataSystem/pesticideRegistration/tagview.do?pdno=WP20180127",
+      "verifiedAt": "2026-08-11",
+      "lastOfficialCheckAt": "2026-08-11",
+      "nextCheckAt": "2026-09-11",
+      "confidence": "HIGH",
+      "officialMatched": true,
+      "warnings": []
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "苯氰残杀威",
+      "10%苯氰残杀威乳油",
+      "苯醚氰菊酯·残杀威",
+      "WP20180127"
+    ],
+    "notes": "ICAMA标签确认：右旋苯醚氰菊酯5%+残杀威5%，室内蚊喷雾75微升/立方米，兑水20倍。登记有效期仍待官方接口自动核验。",
+    "uses": [
+      {
+        "id": "spray_indoor",
+        "method": "INDOOR",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.075,
+          "unit": "mL/m3"
+        },
+        "dilution": 20,
+        "notes": "ICAMA标签：室内蚊喷雾75微升/立方米，兑水20倍"
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_user_WP20090164",
+    "productName": "辛硫·高氯氟乳油",
+    "registeredName": "辛硫·高氯氟",
+    "registrationNo": "WP20090164",
+    "holder": "江苏功成生物科技有限公司",
+    "manufacturer": "江苏功成生物科技有限公司",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "辛硫磷",
+        "value": 20,
+        "unit": "%"
+      },
+      {
+        "name": "高效氯氟氰菊酯",
+        "value": 1,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV"
+    ],
+    "dose": null,
+    "diluent": "water",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "2029-03-08",
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "USER_PROVIDED_REGISTRATION_SCREENSHOT",
+      "verifiedAt": "2026-08-11"
+    },
+    "labelSource": "用户提供的农查查登记截图（2026-08-11）",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "USER_PROVIDED_SCREENSHOT",
+      "verifiedAt": "2026-08-11",
+      "nextCheckAt": "2026-08-18",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "登记号、成分、有效期和室外蚊蝇0.1克/立方米来自用户截图",
+        "当前计算引擎不支持缺少制剂密度的克/立方米剂量，且需ICAMA官方核验"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "辛硫高氯氟",
+      "21%辛硫·高氯氟乳油",
+      "WP20090164"
+    ],
+    "notes": "用户截图显示：辛硫磷20%+高效氯氟氰菊酯1%，室外蚊、蝇喷雾0.1克/立方米。当前仅作可搜索资料，待ICAMA官方复核且需补充制剂密度/换算规则。",
+    "uses": [],
+    "tier": "B"
+  },
+  {
+    "id": "drug_2026_gaolv_45me",
+    "productName": "高效氯氰菊酯4.5%ME",
+    "registeredName": "高效氯氰菊酯微乳剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "ME",
+    "activeIngredients": [
+      {
+        "name": "高效氯氰菊酯",
+        "value": 4.5,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": {
+      "type": "ACTIVE_MASS_PER_VOLUME",
+      "value": 0.5,
+      "unit": "mg/m3"
+    },
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "BAIYUN_LOCAL_ONLY",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "BAIYUN_LOCAL_ONLY",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "高效氯氰菊酯微乳剂",
+      "4.5%高效氯氰菊酯ME"
+    ],
+    "notes": "广州2026东山消毒站采购清单。微乳剂剂型。",
+    "uses": [
+      {
+        "id": "ulv_default",
+        "method": "ULV",
+        "environments": [
+          "indoor",
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "ACTIVE_MASS_PER_VOLUME",
+          "value": 0.5,
+          "unit": "mg/m3"
+        }
+      },
+      {
+        "id": "indoor_default",
+        "method": "INDOOR",
+        "environments": [
+          "indoor",
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "ACTIVE_MASS_PER_VOLUME",
+          "value": 0.5,
+          "unit": "mg/m3"
+        }
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_gaolvcan_10sc",
+    "productName": "高氯残杀威悬浮剂10%",
+    "registeredName": "高效氯氰菊酯·残杀威悬浮剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "SC",
+    "activeIngredients": [
+      {
+        "name": "高效氯氰菊酯",
+        "value": 4,
+        "unit": "%"
+      },
+      {
+        "name": "残杀威",
+        "value": 6,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇",
+      "蟑螂"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR",
+      "RESIDUAL"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026/2025东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "高氯残杀威",
+      "10%高氯残杀威悬浮剂",
+      "高效氯氰菊酯·残杀威SC"
+    ],
+    "notes": "广州2026/2025东山消毒站采购清单。成分：高效氯氰菊酯4%+残杀威6%。悬浮剂。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_echon_4ec",
+    "productName": "噁虫酮·氯丙炔乳油4%",
+    "registeredName": "噁虫酮·氯丙炔菊酯乳油",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "噁虫酮",
+        "value": 2,
+        "unit": "%"
+      },
+      {
+        "name": "氯丙炔菊酯",
+        "value": 2,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "噁虫酮",
+      "氯丙炔菊酯",
+      "4%噁虫酮·氯丙炔乳油",
+      "Metofluthrin+Prallethrin"
+    ],
+    "notes": "广州2026东山消毒站采购清单。新型拟除虫菊酯复配。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_can_6ec",
+    "productName": "残杀威四氟苯菊酯乳油6%",
+    "registeredName": "残杀威·四氟苯菊酯乳油",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "残杀威",
+        "value": 4,
+        "unit": "%"
+      },
+      {
+        "name": "四氟苯菊酯",
+        "value": 2,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "残杀威四氟苯菊酯",
+      "6%残杀威·四氟苯菊酯乳油",
+      "Propoxur+Transfluthrin"
+    ],
+    "notes": "广州2026东山消毒站采购清单。成分：残杀威+四氟苯菊酯。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_liexizhen_104ew",
+    "productName": "列喜镇10.4%EW",
+    "registeredName": "氯菊酯·烯丙菊酯水乳剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EW",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 8,
+        "unit": "%"
+      },
+      {
+        "name": "Es-生物烯丙菊酯",
+        "value": 2.4,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR",
+      "RESIDUAL"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "列喜镇",
+      "氯菊烯丙菊水乳剂",
+      "10.4%氯菊烯丙菊EW"
+    ],
+    "notes": "广州2026东山消毒站采购清单。商品名列喜镇，10.4%水乳剂。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_can_5ec",
+    "productName": "残杀威氯丙炔乳油5%",
+    "registeredName": "残杀威·氯丙炔菊酯乳油",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "残杀威",
+        "value": 3,
+        "unit": "%"
+      },
+      {
+        "name": "氯丙炔菊酯",
+        "value": 2,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "残杀威氯丙炔",
+      "5%残杀威·氯丙炔乳油",
+      "Propoxur+Prallethrin"
+    ],
+    "notes": "广州2026东山消毒站采购清单。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_canlv_8ec",
+    "productName": "残杀威·氯氟醚菊酯乳油8%",
+    "registeredName": "残杀威·氯氟醚菊酯乳油",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "残杀威",
+        "value": 7,
+        "unit": "%"
+      },
+      {
+        "name": "氯氟醚菊酯",
+        "value": 1,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇",
+      "蟑螂"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026/2025东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "残杀威氯氟醚菊酯",
+      "8%残杀威·氯氟醚菊酯乳油",
+      "Propoxur+Meperfluthrin"
+    ],
+    "notes": "广州2026/2025东山消毒站采购清单。成分：残杀威7%+氯氟醚菊酯1%。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_lvju_35ec",
+    "productName": "氯菊·四氟醚乳油3.5%",
+    "registeredName": "氯菊酯·四氟醚菊酯乳油",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 3,
+        "unit": "%"
+      },
+      {
+        "name": "四氟醚菊酯",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "氯菊四氟醚",
+      "3.5%氯菊·四氟醚乳油",
+      "Permethrin+Tetramethrin EC"
+    ],
+    "notes": "广州2026东山消毒站采购清单。低浓度乳油。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2025_lvju_5ew",
+    "productName": "氯菊·四氟醚水乳剂5%",
+    "registeredName": "氯菊酯·四氟醚菊酯水乳剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EW",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 4,
+        "unit": "%"
+      },
+      {
+        "name": "四氟醚菊酯",
+        "value": 1,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR"
+    ],
+    "dose": null,
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2025_PROCUREMENT"
+    },
+    "labelSource": "广州2025东山消毒站采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "氯菊四氟醚水乳剂",
+      "5%氯菊·四氟醚EW"
+    ],
+    "notes": "广州2025东山消毒站采购清单。成分：氯菊酯4%+四氟醚菊酯1%，水乳剂。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_bti_1200wp",
+    "productName": "苏云金杆菌(以色列亚种)WP1200ITU",
+    "registeredName": "苏云金杆菌(以色列亚种)可湿性粉剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "WP",
+    "activeIngredients": [
+      {
+        "name": "苏云金杆菌以色列亚种",
+        "value": 1200,
+        "unit": "ITU/mg"
+      }
+    ],
+    "target": [
+      "蚊幼虫"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "RESIDUAL"
+    ],
+    "dose": {
+      "type": "FORMULATION_MASS_PER_AREA",
+      "value": 1,
+      "unit": "g/m2"
+    },
+    "recommendedDilution": 100,
+    "diluent": "water",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "status": "BAIYUN_LOCAL_ONLY",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "BAIYUN_LOCAL_ONLY",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "Bti可湿性粉剂",
+      "苏云金杆菌WP",
+      "Bacillus thuringiensis israelensis WP"
+    ],
+    "notes": "广州2026东山消毒站采购清单。灭幼虫专用，1200ITU/mg。",
+    "uses": [
+      {
+        "id": "residual_default",
+        "method": "RESIDUAL",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊幼虫"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 1,
+          "unit": "g/m2"
+        },
+        "dilution": 100
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_bti_400gr",
+    "productName": "苏云金杆菌(以色列亚种)颗粒剂400ITU",
+    "registeredName": "苏云金杆菌(以色列亚种)颗粒剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "GR",
+    "activeIngredients": [
+      {
+        "name": "苏云金杆菌以色列亚种",
+        "value": 400,
+        "unit": "ITU/mg"
+      }
+    ],
+    "target": [
+      "蚊幼虫"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "RESIDUAL"
+    ],
+    "dose": {
+      "type": "FORMULATION_MASS_PER_AREA",
+      "value": 1,
+      "unit": "g/m2"
+    },
+    "recommendedDilution": 1,
+    "diluent": "none",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "status": "BAIYUN_LOCAL_ONLY",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026/2025东山消毒站采购清单",
+    "verification": {
+      "status": "BAIYUN_LOCAL_ONLY",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "Bti颗粒剂",
+      "苏云金杆菌颗粒剂",
+      "Bacillus thuringiensis israelensis GR"
+    ],
+    "notes": "广州2026/2025东山消毒站采购清单。灭幼虫颗粒剂。",
+    "uses": [
+      {
+        "id": "residual_default",
+        "method": "RESIDUAL",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊幼虫"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 1,
+          "unit": "g/m2"
+        }
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_fenthion_5gr",
+    "productName": "倍硫磷颗粒剂5%",
+    "registeredName": "倍硫磷颗粒剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "GR",
+    "activeIngredients": [
+      {
+        "name": "倍硫磷",
+        "value": 5,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊幼虫"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "RESIDUAL"
+    ],
+    "dose": {
+      "type": "FORMULATION_MASS_PER_AREA",
+      "value": 1,
+      "unit": "g/m2"
+    },
+    "recommendedDilution": 1,
+    "diluent": "none",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "status": "BAIYUN_LOCAL_ONLY",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026/2025东山消毒站采购清单",
+    "verification": {
+      "status": "BAIYUN_LOCAL_ONLY",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "倍硫磷",
+      "5%倍硫磷颗粒剂",
+      "Fenthion GR"
+    ],
+    "notes": "广州2026/2025东山消毒站采购清单。灭幼虫颗粒剂。",
+    "uses": [
+      {
+        "id": "residual_default",
+        "method": "RESIDUAL",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊幼虫"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 1,
+          "unit": "g/m2"
+        }
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_temephos_1gr",
+    "productName": "双硫磷颗粒剂1%",
+    "registeredName": "双硫磷颗粒剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "GR",
+    "activeIngredients": [
+      {
+        "name": "双硫磷",
+        "value": 1,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊幼虫"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "RESIDUAL"
+    ],
+    "dose": {
+      "type": "FORMULATION_MASS_PER_AREA",
+      "value": 1,
+      "unit": "g/m2"
+    },
+    "recommendedDilution": 1,
+    "diluent": "none",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "status": "BAIYUN_LOCAL_ONLY",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "BAIYUN_LOCAL_ONLY",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "双硫磷",
+      "安备",
+      "1%双硫磷颗粒剂",
+      "Temephos GR",
+      "Abate"
+    ],
+    "notes": "广州2026东山消毒站采购清单。商品名安备，灭幼虫颗粒剂。",
+    "uses": [
+      {
+        "id": "residual_default",
+        "method": "RESIDUAL",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊幼虫"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 1,
+          "unit": "g/m2"
+        }
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2026_methoprene_1gr",
+    "productName": "S-烯虫酯颗粒剂1%",
+    "registeredName": "S-烯虫酯颗粒剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "GR",
+    "activeIngredients": [
+      {
+        "name": "S-烯虫酯",
+        "value": 1,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊幼虫"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "RESIDUAL"
+    ],
+    "dose": {
+      "type": "FORMULATION_MASS_PER_AREA",
+      "value": 1,
+      "unit": "g/m2"
+    },
+    "recommendedDilution": 1,
+    "diluent": "none",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "status": "BAIYUN_LOCAL_ONLY",
+    "source": {
+      "type": "GUANGZHOU_2026_PROCUREMENT"
+    },
+    "labelSource": "广州2026东山消毒站采购清单",
+    "verification": {
+      "status": "BAIYUN_LOCAL_ONLY",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自广州采购清单，需搜索国家登记库匹配具体WP登记号"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "S-烯虫酯",
+      "烯虫酯",
+      "S-Methoprene GR",
+      "昆虫生长调节剂"
+    ],
+    "notes": "广州2026东山消毒站采购清单。昆虫生长调节剂，环境友好型幼虫控制。",
+    "uses": [
+      {
+        "id": "residual_default",
+        "method": "RESIDUAL",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊幼虫"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 1,
+          "unit": "g/m2"
+        }
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2025_datang_ulv",
+    "productName": "超低容量液剂(大塘街)",
+    "registeredName": "氯菊酯·烯丙菊酯超低容量液剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "OL",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 5,
+        "unit": "%"
+      },
+      {
+        "name": "Es-生物烯丙菊酯",
+        "value": 1,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV"
+    ],
+    "dose": {
+      "type": "FORMULATION_VOLUME_PER_VOLUME",
+      "value": 0.5,
+      "unit": "mL/m3"
+    },
+    "recommendedDilution": 1,
+    "diluent": "deodorizedKerosene",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "status": "BAIYUN_LOCAL_ONLY",
+    "source": {
+      "type": "GUANGZHOU_2025_PROCUREMENT"
+    },
+    "labelSource": "广州2025大塘街采购清单",
+    "verification": {
+      "status": "BAIYUN_LOCAL_ONLY",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自大塘街采购清单，需搜索国家登记库匹配具体WP登记号"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "超低容量液剂",
+      "大塘街ULV",
+      "氯菊烯丙菊超低容量"
+    ],
+    "notes": "广州2025大塘街采购清单。超低容量油剂，适用于室外空间喷雾。",
+    "uses": [
+      {
+        "id": "ulv_default",
+        "method": "ULV",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.5,
+          "unit": "mL/m3"
+        }
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2025_datang_thermal",
+    "productName": "杀虫热雾剂(大塘街)",
+    "registeredName": "氯菊酯·烯丙菊酯热雾剂",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "OL",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 5,
+        "unit": "%"
+      },
+      {
+        "name": "Es-生物烯丙菊酯",
+        "value": 2,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "THERMAL_FOG"
+    ],
+    "dose": {
+      "type": "FORMULATION_VOLUME_PER_VOLUME",
+      "value": 1,
+      "unit": "mL/m3"
+    },
+    "recommendedDilution": 1,
+    "diluent": "deodorizedKerosene",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "status": "BAIYUN_LOCAL_ONLY",
+    "source": {
+      "type": "GUANGZHOU_2025_PROCUREMENT"
+    },
+    "labelSource": "广州2025大塘街采购清单",
+    "verification": {
+      "status": "BAIYUN_LOCAL_ONLY",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自大塘街采购清单，需搜索国家登记库匹配具体WP登记号"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "杀虫热雾剂",
+      "大塘街热雾剂",
+      "热烟雾剂"
+    ],
+    "notes": "广州2025大塘街采购清单。热烟雾专用油剂。",
+    "uses": [
+      {
+        "id": "thermal_fog_default",
+        "method": "THERMAL_FOG",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 1,
+          "unit": "mL/m3"
+        }
+      }
+    ],
+    "tier": "A"
+  },
+  {
+    "id": "drug_2025_datang_propoxur_ec",
+    "productName": "残杀威乳油(大塘街)",
+    "registeredName": "残杀威乳油",
+    "registrationNo": "待搜索",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "残杀威",
+        "value": 20,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇",
+      "蟑螂"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR",
+      "RESIDUAL"
+    ],
+    "dose": null,
+    "recommendedDilution": 50,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "status": "NEEDS_REVIEW",
+    "source": {
+      "type": "GUANGZHOU_2025_PROCUREMENT"
+    },
+    "labelSource": "广州2025大塘街采购清单",
+    "verification": {
+      "status": "NEEDS_REVIEW",
+      "verificationMethod": "LOCAL_PROCUREMENT",
+      "verifiedAt": "2026-08-10",
+      "nextCheckAt": "2026-11-10",
+      "confidence": "MEDIUM",
+      "warnings": [
+        "来自大塘街采购清单，需搜索国家登记库匹配具体WP登记号",
+        "制剂用量待核实：原0.1mL/m³为多飞剋专用剂量，已清除"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "synonyms": [
+      "残杀威乳油",
+      "20%残杀威EC",
+      "Propoxur EC"
+    ],
+    "notes": "广州2025大塘街采购清单。单剂残杀威乳油，可用于多种施药方式。",
+    "uses": [],
+    "tier": "A"
+  },
+  {
+    "id": "drug_custom_example",
+    "productName": "（自定义药物示例）",
+    "registeredName": "",
+    "registrationNo": "",
+    "holder": "",
+    "manufacturer": "",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "某有效成分",
+        "value": 10,
+        "unit": "%"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "applicationMethods": [
+      "ULV",
+      "INDOOR",
+      "RESIDUAL"
+    ],
+    "dose": {
+      "type": "ACTIVE_MASS_PER_VOLUME",
+      "value": 1,
+      "unit": "mg/m3"
+    },
+    "recommendedDilution": 1,
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "",
+    "status": "DISABLED",
+    "source": {
+      "type": "USER_INPUT"
+    },
+    "labelSource": "用户自定义",
+    "verification": {
+      "status": "DISABLED",
+      "verificationMethod": "USER_INPUT",
+      "confidence": "NONE",
+      "warnings": [
+        "占位示例"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "notes": "此为占位示例，用户通过自定义药物页面创建的药物会覆盖此条目",
+    "uses": [
+      {
+        "id": "ulv_default",
+        "method": "ULV",
+        "environments": [
+          "indoor",
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "ACTIVE_MASS_PER_VOLUME",
+          "value": 1,
+          "unit": "mg/m3"
+        }
+      },
+      {
+        "id": "indoor_default",
+        "method": "INDOOR",
+        "environments": [
+          "indoor",
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "ACTIVE_MASS_PER_VOLUME",
+          "value": 1,
+          "unit": "mg/m3"
+        }
+      },
+      {
+        "id": "residual_default",
+        "method": "RESIDUAL",
+        "environments": [
+          "indoor",
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "ACTIVE_MASS_PER_VOLUME",
+          "value": 1,
+          "unit": "mg/m3"
+        }
+      }
+    ],
+    "tier": "B"
+  },
+  {
+    "id": "drug_WP20110220",
+    "productName": "烯丙·氯菊乳油（宝世家洁）",
+    "registeredName": "烯丙·氯菊乳油",
+    "registrationNo": "WP20110220",
+    "holder": "湖北宝世生物科技有限公司",
+    "manufacturer": "官方标签未单列生产企业",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 7.5,
+        "unit": "%"
+      },
+      {
+        "name": "Es-生物烯丙菊酯",
+        "value": 2.5,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "ulv_indoor",
+        "method": "ULV",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.075,
+          "unit": "mL/m3"
+        },
+        "notes": "白云区培训：宝世家洁 室内蚊空间喷雾 0.075 mL/m³"
+      },
+      {
+        "id": "residual_indoor",
+        "method": "RESIDUAL",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_AREA",
+          "value": 4.0,
+          "unit": "mL/m2"
+        },
+        "doseRange": {
+          "min": 3.0,
+          "max": 5.0
+        },
+        "notes": "登记标签：宝世家洁 室内蚊滞留喷洒 3–5 mL/m²"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2031-09-27",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH",
+      "warnings": [
+        "ICAMA登记查询已确认续展，有效期至2031-09-27"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "tier": "A",
+    "notes": "白云优先。ICAMA登记查询已确认续展，有效期至2031-09-27。"
+  },
+  {
+    "id": "drug_WP20080600",
+    "productName": "多飞剋",
+    "registeredName": "氯菊·烯丙菊乳油",
+    "registrationNo": "WP20080600",
+    "holder": "珠海凯中有限公司",
+    "manufacturer": "官方标签未单列生产企业",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 10.0,
+        "unit": "%"
+      },
+      {
+        "name": "Es-生物烯丙菊酯",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "ulv_baiyun",
+        "method": "ULV",
+        "environments": [
+          "indoor",
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_AREA",
+          "value": 0.1,
+          "unit": "mL/m2"
+        },
+        "dilution": 100,
+        "notes": "ICAMA标签：卫生蚊0.1 mL制剂/m²，稀释100–200倍超低容量喷雾"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "2028-12-29",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "农业农村部ICAMA农药标签+白云区疾控培训资料",
+    "baiyunTraining": {
+      "source": "《登革热媒介防制技术》白云区疾控培训教材",
+      "year": 2025,
+      "recommendedFormulationDose": 0.1,
+      "recommendedMethods": [
+        "ULV"
+      ],
+      "notes": "白云本地高优先级",
+      "recommendedMachines": [
+        "616A",
+        "宝特星",
+        "L30"
+      ]
+    },
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "officialLabelUrl": "https://www.icama.cn/BasicdataSystem/pesticideRegistration/tagview.do?pdno=WP20080600",
+      "verifiedAt": "2026-08-11",
+      "lastOfficialCheckAt": "2026-08-11",
+      "nextCheckAt": "2026-09-11",
+      "confidence": "HIGH",
+      "officialMatched": true,
+      "warnings": []
+    },
+    "dataVersion": "2026.2",
+    "tier": "A",
+    "notes": "白云本地高优先级。ICAMA标签确认：卫生蚊0.1 mL制剂/m²，稀释100–200倍超低容量喷雾。面积剂量不得直接套用体积剂量公式。",
+    "localEfficacy": [
+      {
+        "productId": "drug_duofukei",
+        "year": 2026,
+        "district": "白云区",
+        "applicationMethod": "ULV",
+        "machine": "616A",
+        "reductionRate": 95,
+        "result": "显著",
+        "source": "广州市白云区疾病预防控制中心2026年报告"
+      }
+    ]
+  },
+  {
+    "id": "drug_WP20080090",
+    "productName": "列喜镇",
+    "registeredName": "氯菊·烯丙菊水乳剂",
+    "registrationNo": "WP20080090",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EW",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 102.6,
+        "unit": "g/L"
+      },
+      {
+        "name": "S-生物烯丙菊酯",
+        "value": 1.4,
+        "unit": "g/L"
+      }
+    ],
+    "uses": [
+      {
+        "id": "ulv_indoor",
+        "method": "ULV",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.0125,
+          "unit": "mL/m3"
+        },
+        "notes": "白云区培训：列喜镇 室内蚊超低量喷雾 0.0125 mL/m³"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2028-08-18",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库+白云培训",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "A",
+    "notes": "当前数据有效期至2028-08-18。白云培训也以0.0125mL/m³进行机器匹配。"
+  },
+  {
+    "id": "drug_WP20110077",
+    "productName": "优士乳油",
+    "registeredName": "氯菊·烯丙菊乳油",
+    "registrationNo": "WP20110077",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 161.5,
+        "unit": "g/L"
+      },
+      {
+        "name": "S-生物烯丙菊酯",
+        "value": 7.1,
+        "unit": "g/L"
+      }
+    ],
+    "uses": [
+      {
+        "id": "ulv_indoor",
+        "method": "ULV",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.02,
+          "unit": "mL/m3"
+        },
+        "notes": "白云区培训：优士旧配方 室内蚊 ULV 0.020 mL/m³"
+      },
+      {
+        "id": "residual_indoor",
+        "method": "RESIDUAL",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_AREA",
+          "value": 3.372,
+          "unit": "mL/m2"
+        },
+        "notes": "登记标签：优士 卫生场所蚊滞留喷洒 3.372 mL/m²"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2031-03-23",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "A",
+    "notes": "当前登记数据已经显示续展至2031-03-23。"
+  },
+  {
+    "id": "drug_WP20230013",
+    "productName": "噁虫酮·氯丙炔乳油",
+    "registeredName": "噁虫酮·氯丙炔乳油",
+    "registrationNo": "WP20230013",
+    "holder": "江苏优嘉植物保护有限公司",
+    "manufacturer": "官方标签未单列生产企业",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "噁虫酮",
+        "value": 3.5,
+        "unit": "%"
+      },
+      {
+        "name": "右旋反式氯丙炔菊酯",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "ulv_indoor",
+        "method": "ULV",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.05,
+          "unit": "mL/m3"
+        },
+        "notes": "登记标签：噁虫酮·氯丙炔 室内蚊 ULV 0.050 mL/m³"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2028-05-18",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库+白云培训",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "A",
+    "notes": "白云培训资料明确把该WP作为当地常见灭成蚊制剂之一。"
+  },
+  {
+    "id": "drug_WP20230001",
+    "productName": "优士水乳剂",
+    "registeredName": "氯氟醚菊酯·氯菊酯水乳剂",
+    "registrationNo": "WP20230001",
+    "holder": "江苏优嘉植物保护有限公司",
+    "manufacturer": "官方标签未单列生产企业",
+    "category": "卫生杀虫剂",
+    "formulationType": "EW",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 9,
+        "unit": "%"
+      },
+      {
+        "name": "氯氟醚菊酯",
+        "value": 1,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "ulv_indoor",
+        "method": "ULV",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.03,
+          "unit": "mL/m3"
+        },
+        "notes": "登记标签：优士新配方 室内蚊 ULV 0.030 mL/m³"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2028-02-02",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库+白云培训",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "A",
+    "notes": "白云培训亦明确列出WP20230001。"
+  },
+  {
+    "id": "drug_WP20110071",
+    "productName": "苯氰·残杀威乳油",
+    "registeredName": "苯氰·残杀威乳油",
+    "registrationNo": "WP20110071",
+    "holder": "江苏优嘉植物保护有限公司",
+    "manufacturer": "官方标签未单列生产企业",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "残杀威",
+        "value": 12,
+        "unit": "%"
+      },
+      {
+        "name": "右旋苯醚氰菊酯",
+        "value": 3,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "ulv_indoor",
+        "method": "ULV",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.025,
+          "unit": "mL/m3"
+        },
+        "notes": "白云区评价：苯氰·残杀威 室内蚊 ULV 0.025 mL/m³"
+      },
+      {
+        "id": "residual_indoor",
+        "method": "RESIDUAL",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 333,
+          "unit": "mg/m2"
+        },
+        "notes": "登记标签：苯氰·残杀威 室内蚊滞留喷洒 333 mg/m²"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2031-03-23",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "A/B",
+    "notes": "注意333mg/m²是质量剂量，不得无条件当成0.333mL/m²。"
+  },
+  {
+    "id": "drug_WP20210032",
+    "productName": "残杀威·四氟苯菊酯乳油",
+    "registeredName": "残杀威·四氟苯菊酯乳油",
+    "registrationNo": "WP20210032",
+    "holder": "江苏功成生物科技有限公司",
+    "manufacturer": "官方标签未单列生产企业",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "残杀威",
+        "value": 4,
+        "unit": "%"
+      },
+      {
+        "name": "四氟苯菊酯",
+        "value": 2,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "ulv_indoor",
+        "method": "ULV",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊",
+          "蝇"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 0.02,
+          "unit": "mL/m3"
+        },
+        "dilution": 20,
+        "notes": "ICAMA标签：室内蚊、蝇20微升/立方米，兑水20倍超低容量喷雾"
+      },
+      {
+        "id": "ulv_outdoor",
+        "method": "ULV",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "DILUTION_RATIO",
+          "value": 30,
+          "unit": "倍"
+        },
+        "notes": "登记标签：残杀威·四氟苯菊酯 室外蚊 30倍稀释 ULV"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "2031-03-10",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "B",
+    "notes": "ICAMA标签已补齐：室内蚊、蝇20微升/立方米；室外蚊30倍、蝇20倍稀释，室外质量面积剂量不得改写为mL/m³。"
+  },
+  {
+    "id": "drug_WP20210216",
+    "productName": "残杀·溴氰水乳剂",
+    "registeredName": "残杀·溴氰水乳剂",
+    "registrationNo": "WP20210216",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EW",
+    "activeIngredients": [
+      {
+        "name": "残杀威",
+        "value": 7,
+        "unit": "%"
+      },
+      {
+        "name": "溴氰菊酯",
+        "value": 1,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "spray_indoor",
+        "method": "ULV",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_VOLUME",
+          "value": 1.5,
+          "unit": "mL/m3"
+        },
+        "notes": "国家登记：残杀·溴氰 室内蚊喷雾 1.50 mL/m³"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2031-09-28",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "B"
+  },
+  {
+    "id": "drug_WP20210200",
+    "productName": "烯丙·氯菊微乳剂",
+    "registeredName": "烯丙·氯菊微乳剂",
+    "registrationNo": "WP20210200",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "ME",
+    "activeIngredients": [
+      {
+        "name": "氯菊酯",
+        "value": 7.5,
+        "unit": "%"
+      },
+      {
+        "name": "Es-生物烯丙菊酯",
+        "value": 2.5,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "spray_indoor_outdoor",
+        "method": "ULV",
+        "environments": [
+          "indoor",
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "DILUTION_RATIO",
+          "value": 100,
+          "unit": "倍"
+        },
+        "notes": "登记标签：烯丙·氯菊微乳剂 室内/室外蚊 100倍稀释液喷雾"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "indoor",
+      "outdoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "2026-09-28",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH",
+      "warnings": [
+        "当前数据有效期至2026-09-28，需自动检查续展"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "tier": "B",
+    "notes": "不要从100倍自行制造mL/m³剂量。当前登记数据有效期至2026-09-28，应自动检查续展。"
+  },
+  {
+    "id": "drug_WP20210202",
+    "productName": "高效氯氟氰菊酯水乳剂",
+    "registeredName": "高效氯氟氰菊酯水乳剂",
+    "registrationNo": "WP20210202",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EW",
+    "activeIngredients": [
+      {
+        "name": "高效氯氟氰菊酯",
+        "value": 10,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "spray_outdoor",
+        "method": "ULV",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_AREA",
+          "value": 0.0365,
+          "unit": "mL/m2"
+        },
+        "doseRange": {
+          "min": 0.033,
+          "max": 0.04
+        },
+        "notes": "登记标签：高效氯氟氰菊酯 室外蚊喷雾 33–40 μL/m² = 0.033–0.040 mL/m²"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "2026-09-28",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH",
+      "warnings": [
+        "当前登记信息有效期至2026-09-28，应自动检查续展"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "tier": "B",
+    "notes": "注意这是面积剂量，不是mL/m³，禁止直接进入白云ULV体积剂量公式。"
+  },
+  {
+    "id": "drug_WP20210227",
+    "productName": "高氯氰·氯丙炔乳油",
+    "registeredName": "高氯氰·氯丙炔乳油",
+    "registrationNo": "WP20210227",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "EC",
+    "activeIngredients": [
+      {
+        "name": "高效氯氰菊酯",
+        "value": 2.8,
+        "unit": "%"
+      },
+      {
+        "name": "右旋反式氯丙炔菊酯",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "spray_outdoor",
+        "method": "ULV",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_AREA",
+          "value": 0.05,
+          "unit": "mL/m2"
+        },
+        "notes": "登记标签：高氯氰·氯丙炔 室外蚊喷雾 50 μL/m² = 0.050 mL/m²"
+      },
+      {
+        "id": "thermal_outdoor",
+        "method": "THERMAL_FOG",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_AREA",
+          "value": 0.3,
+          "unit": "mL/m2"
+        },
+        "notes": "登记标签：高氯氰·氯丙炔 室外蚊热雾机 0.30 mL/m²"
+      }
+    ],
+    "target": [
+      "蚊"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "2031-09-28",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "B",
+    "notes": "2025年已增加热雾机喷雾登记，当前登记至2031-09-28。"
+  },
+  {
+    "id": "drug_WP20080407",
+    "productName": "高效氯氰菊酯6%可湿性粉剂",
+    "registeredName": "高效氯氰菊酯可湿性粉剂",
+    "registrationNo": "WP20080407",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "WP",
+    "activeIngredients": [
+      {
+        "name": "高效氯氰菊酯",
+        "value": 6,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "residual_glass_wood",
+        "method": "RESIDUAL",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 0.83,
+          "unit": "g/m2"
+        },
+        "notes": "登记标签：高效氯氰菊酯 卫生场所蚊滞留喷洒 玻璃/木板 0.83 g/m²"
+      },
+      {
+        "id": "residual_lime",
+        "method": "RESIDUAL",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 1.67,
+          "unit": "g/m2"
+        },
+        "notes": "登记标签：高效氯氰菊酯 卫生场所蚊滞留喷洒 石灰面 1.67 g/m²"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇",
+      "蜚蠊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2028-12-11",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "B",
+    "notes": "可加入滞留模块，不得加入ULV。"
+  },
+  {
+    "id": "drug_WP20090250",
+    "productName": "高氯·残杀威悬浮剂",
+    "registeredName": "高氯·残杀威悬浮剂",
+    "registrationNo": "WP20090250",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "SC",
+    "activeIngredients": [
+      {
+        "name": "高效氯氰菊酯",
+        "value": 4,
+        "unit": "%"
+      },
+      {
+        "name": "残杀威",
+        "value": 6,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "residual_indoor",
+        "method": "RESIDUAL",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊",
+          "蝇",
+          "蜚蠊"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 0.75,
+          "unit": "g/m2"
+        },
+        "doseRange": {
+          "min": 0.5,
+          "max": 1.0
+        },
+        "notes": "滞留喷洒0.5-1.0 g制剂/m²"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇",
+      "蜚蠊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH",
+      "warnings": [
+        "旧标签可确认该剂量，但历史页面的有效期信息已经过时，不能直接将旧状态当当前状态"
+      ]
+    },
+    "dataVersion": "2026.2",
+    "tier": "B",
+    "notes": "加入候选库并让Agent自动重新核当前标签后启用。"
+  },
+  {
+    "id": "drug_WP20100043",
+    "productName": "高效氯氟氰菊酯10%可湿性粉剂",
+    "registeredName": "高效氯氟氰菊酯可湿性粉剂",
+    "registrationNo": "WP20100043",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "WP",
+    "activeIngredients": [
+      {
+        "name": "高效氯氟氰菊酯",
+        "value": 10,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "residual_indoor",
+        "method": "RESIDUAL",
+        "environments": [
+          "indoor"
+        ],
+        "target": [
+          "蚊",
+          "蝇",
+          "蜚蠊"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 0.2,
+          "unit": "g/m2"
+        },
+        "notes": "滞留喷洒0.20 g制剂/m²，对应有效成分20 mg/m²"
+      }
+    ],
+    "target": [
+      "蚊",
+      "蝇",
+      "蜚蠊"
+    ],
+    "environments": [
+      "indoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": true,
+    "outdoorAllowed": false,
+    "registrationValidUntil": "2030-02-28",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "B",
+    "notes": "旧标签给出0.20g/m²；当前企业登记列表显示该WP已续展至2030-02-28。"
+  },
+  {
+    "id": "drug_WP20210126",
+    "productName": "杀虫颗粒剂",
+    "registeredName": "杀虫颗粒剂",
+    "registrationNo": "WP20210126",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "GR",
+    "activeIngredients": [
+      {
+        "name": "吡丙醚",
+        "value": 0.5,
+        "unit": "%"
+      },
+      {
+        "name": "双硫磷",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ],
+    "uses": [
+      {
+        "id": "larvicide_outdoor",
+        "method": "RESIDUAL",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊幼虫"
+        ],
+        "dose": {
+          "type": "FORMULATION_MASS_PER_AREA",
+          "value": 2.5,
+          "unit": "g/m2"
+        },
+        "notes": "登记标签：吡丙醚·双硫磷颗粒剂 室外蚊幼虫撒施 2.5 g/m²"
+      }
+    ],
+    "target": [
+      "蚊幼虫"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "diluent": "none",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "2031-07-01",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "C",
+    "notes": "幼蚊优先。当前登记数据已经显示续展至2031-07-01。"
+  },
+  {
+    "id": "drug_WP20240023",
+    "productName": "苏云金杆菌（以色列亚种）悬浮剂",
+    "registeredName": "苏云金杆菌（以色列亚种）悬浮剂",
+    "registrationNo": "WP20240023",
+    "holder": "待核验",
+    "manufacturer": "待核验",
+    "category": "卫生杀虫剂",
+    "formulationType": "SC",
+    "activeIngredients": [
+      {
+        "name": "苏云金杆菌以色列亚种",
+        "value": 200,
+        "unit": "ITU/μL"
+      }
+    ],
+    "uses": [
+      {
+        "id": "larvicide_outdoor",
+        "method": "ULV",
+        "environments": [
+          "outdoor"
+        ],
+        "target": [
+          "蚊幼虫"
+        ],
+        "dose": {
+          "type": "FORMULATION_VOLUME_PER_AREA",
+          "value": 6.0,
+          "unit": "mL/m2"
+        },
+        "notes": "登记标签：Bti 室外孳生地蚊幼虫喷洒 6.0 mL/m²"
+      }
+    ],
+    "target": [
+      "蚊幼虫"
+    ],
+    "environments": [
+      "outdoor"
+    ],
+    "diluent": "water",
+    "indoorAllowed": false,
+    "outdoorAllowed": true,
+    "registrationValidUntil": "2029-03-25",
+    "status": "VERIFIED_CALCULABLE",
+    "labelSource": "国家ICAMA登记库",
+    "verification": {
+      "status": "VERIFIED_CALCULABLE",
+      "verificationMethod": "OFFICIAL_AUTO",
+      "verifiedAt": "2026-08-11",
+      "confidence": "HIGH"
+    },
+    "dataVersion": "2026.2",
+    "tier": "C",
+    "notes": "幼蚊优先。当前登记至2029-03-25。"
+  }
+]
